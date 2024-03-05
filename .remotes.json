@@ -1,0 +1,8 @@
+[
+  {
+    "package": "tsmethods",
+    "url": "https://github.com/tsmodels/tsmethods",
+    "via": ["tsdistributions"],
+    "from": "tsdistributions"
+  }
+]
