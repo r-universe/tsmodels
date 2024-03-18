@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "tsdistributions"]
+	path = tsdistributions
+	url = https://github.com/tsmodels/tsdistributions
 [submodule "tsmethods"]
 	path = tsmethods
 	url = https://github.com/tsmodels/tsmethods
