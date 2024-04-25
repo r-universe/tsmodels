@@ -5,6 +5,9 @@
 [submodule "tsdistributions"]
 	path = tsdistributions
 	url = https://github.com/tsmodels/tsdistributions
+[submodule "tsgarch"]
+	path = tsgarch
+	url = https://github.com/tsmodels/tsgarch
 [submodule "tsmethods"]
 	path = tsmethods
 	url = https://github.com/tsmodels/tsmethods
