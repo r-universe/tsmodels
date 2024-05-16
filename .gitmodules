@@ -11,3 +11,6 @@
 [submodule "tsmethods"]
 	path = tsmethods
 	url = https://github.com/tsmodels/tsmethods
+[submodule "tstests"]
+	path = tstests
+	url = https://github.com/tsmodels/tstests
