@@ -8,6 +8,9 @@
 [submodule "tsgarch"]
 	path = tsgarch
 	url = https://github.com/tsmodels/tsgarch
+[submodule "tsmarch"]
+	path = tsmarch
+	url = https://github.com/tsmodels/tsmarch
 [submodule "tsmethods"]
 	path = tsmethods
 	url = https://github.com/tsmodels/tsmethods
